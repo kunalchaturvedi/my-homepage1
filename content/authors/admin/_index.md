@@ -21,8 +21,8 @@ social:
   - display:
       header: false
     link: https://github.com/kunalchaturvedi/My_Resume_CV/blob/main/kuchatur_simple_resumeCV.pdf
-    icon_pack: far
-    icon: file-pdf
+    icon_pack: ai
+    icon: cv
 organizations:
   - name: Microsoft R&D India
 education:
