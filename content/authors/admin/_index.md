@@ -18,6 +18,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/kunal-chaturvedi-55469a121/
+  - display:
+      header: false
+    link: https://github.com/kunalchaturvedi/My_Resume_CV/blob/main/kuchatur_simple_resumeCV.pdf
+    icon_pack: ai
+    icon: CV
 organizations:
   - name: Microsoft R&D India
 education:
