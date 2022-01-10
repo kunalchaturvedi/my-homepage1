@@ -1,6 +1,7 @@
 ---
 title: Kunal Chaturvedi
 role: Software Engineer 2
+avatar_filename: linkedinphoto.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
