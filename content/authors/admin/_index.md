@@ -25,7 +25,7 @@ education:
     - course: BTech in Computer Science and Engineering
       institution: Indian Institute of Technology Kanpur
       year: 2018
-email: ""
+email: chatur.kunal@gmail.com
 superuser: true
 highlight_name: true
 ---
