@@ -2,6 +2,7 @@
 title: AI Camera based Vision and Sensing for Robotic Systems
 subtitle: Computer Vision, Robitics, Prof. Bhaskar Dasgupta
 date: 2022-01-13T17:00:51.185Z
+summary: Computer Vision, Robitics, Prof. Bhaskar Dasgupta
 draft: false
 featured: false
 image:
