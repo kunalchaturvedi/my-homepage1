@@ -5,9 +5,11 @@ avatar_filename: linkedinphoto.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Machine Learning
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning and AI
+  - Game Theory
+  - Computer Vision
+  - Natural Language Processing
+  - Algorithms
 social:
   - icon: envelope
     icon_pack: fas
