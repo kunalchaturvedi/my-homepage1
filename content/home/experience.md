@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Software Engineer, Software Engineer II
+    company: Microsoft India R\&D Pvt Ltd.
     company_url: ''
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '2018-06-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Worked as abackend engineer(.Net/C#, Python)on Azure Mgirate service, with the goal to discover(collectingon-premise server data), assess(recommending right-sized Azure SKUs), and migrate servers to Azure.
+        Focus areas:
+        * Data Engineering
+        * Machine Learning and Algorithms
+        * Software Engineering and Arch Design
         
   - title: Professor of Semiconductor Physics
     company: University X
