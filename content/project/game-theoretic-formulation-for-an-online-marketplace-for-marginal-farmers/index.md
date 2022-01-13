@@ -5,6 +5,9 @@ summary: Game thory and Mechanism Design, Prof. Swaprava Nath
 draft: false
 featured: false
 authors: []
+tags:
+  - Game Theory
+  - Inverse Game Theory
 links:
   - url: https://github.com/aunmesh/FoodMartSim
     name: GitHub
