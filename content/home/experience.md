@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Professional Experience
 subtitle:
 
 # Date format for experience
@@ -31,6 +31,7 @@ experience:
     date_end: ''
     description: |2-
         Worked as abackend engineer(.Net/C#, Python)on Azure Mgirate service, with the goal to discover(collectingon-premise server data), assess(recommending right-sized Azure SKUs), and migrate servers to Azure.
+
         Focus areas:
         * Data Engineering
         * Machine Learning and Algorithms
