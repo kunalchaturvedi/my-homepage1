@@ -4,19 +4,21 @@ date: 2022-01-13T16:30:34.360Z
 summary: Game thory and Mechanism Design, Prof. Swaprava Nath
 draft: false
 featured: false
-authors: []
+authors:
+  - Kunal Chaturvedi
+  - Sachin K Salim
+  - Asim Unmesh
 tags:
   - Game Theory
   - Inverse Game Theory
 links:
   - url: https://github.com/aunmesh/FoodMartSim
     name: GitHub
-url_code: 'https://github.com/aunmesh/FoodMartSim'
-
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
+url_code: https://github.com/aunmesh/FoodMartSim
 ---
 
 
