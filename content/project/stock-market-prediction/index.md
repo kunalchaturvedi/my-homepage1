@@ -2,6 +2,7 @@
 title: Stock Market Prediction
 subtitle: Machine Learning, Prof. Piyush Rai
 date: 2022-01-13T17:02:54.318Z
+summary: Machine Learning, Prof. Piyush Rai
 draft: false
 featured: false
 image:
