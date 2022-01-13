@@ -5,6 +5,9 @@ date: 2022-01-13T17:02:54.318Z
 summary: Machine Learning, Prof. Piyush Rai
 draft: false
 featured: false
+links:
+  - url: https://github.com/kunalchaturvedi/College-Project-Vault/tree/main/Stock%20Price%20Prediction
+    name: GitHub
 image:
   filename: featured
   focal_point: Smart
