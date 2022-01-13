@@ -5,6 +5,9 @@ date: 2022-01-13T17:09:16.444Z
 summary: Game Theory, Discreet Mathematics, Prof. Rajat Mittal
 draft: false
 featured: false
+links:
+  - url: https://github.com/kunalchaturvedi/College-Project-Vault/tree/main/Combinatorial%20Games
+    name: GitHub
 image:
   filename: featured
   focal_point: Smart
