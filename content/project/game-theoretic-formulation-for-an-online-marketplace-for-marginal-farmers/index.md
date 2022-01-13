@@ -11,6 +11,8 @@ tags:
 links:
   - url: https://github.com/aunmesh/FoodMartSim
     name: GitHub
+url_code: 'https://github.com/aunmesh/FoodMartSim'
+
 image:
   filename: ""
   focal_point: Smart
