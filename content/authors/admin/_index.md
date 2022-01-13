@@ -8,7 +8,7 @@ interests:
   - Machine Learning and AI
   - Game Theory
   - Computer Vision
-  - NLP
+  - Natural Language Processing
   - Algorithms
 social:
   - icon: envelope
