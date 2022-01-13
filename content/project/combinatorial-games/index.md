@@ -2,6 +2,7 @@
 title: Combinatorial Games
 subtitle: Game Theory, Discreet Mathematics, Prof. Rajat Mittal
 date: 2022-01-13T17:09:16.444Z
+summary: Game Theory, Discreet Mathematics, Prof. Rajat Mittal
 draft: false
 featured: false
 image:
