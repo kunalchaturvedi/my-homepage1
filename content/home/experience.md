@@ -25,8 +25,8 @@ experience:
   - title: Software Engineer, Software Engineer II
     company: Microsoft India R\&D Pvt Ltd.
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: 
+    location: Hyderabad, India
     date_start: '2018-06-01'
     date_end: ''
     description: |2-
@@ -36,14 +36,14 @@ experience:
         * Machine Learning and Algorithms
         * Software Engineering and Arch Design
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Software Engineering Intern
+    company: CitiCorp India
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: Pune, India
+    date_start: '2017-05-01'
+    date_end: '2017-07-01'
+    description: Research Project - *Algorithms for Scalable Approximate Entity Extraction In Financial Name/Transaction Screening*
 
 design:
   columns: '2'
