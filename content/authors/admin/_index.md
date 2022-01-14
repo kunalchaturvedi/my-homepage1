@@ -37,6 +37,6 @@ highlight_name: true
 ---
 Hi.
 
-I am Kunal Chaturvedi, a CS graduate from Indian Institute of Technology Kanpur, and am is currently working at Micrsooft as a Software Engineer 2. I focus on areas in Algorithms and ML in an effort to solve interesting problems both on and off work. My interests revolve aroung areas in Machine learning and Game theory, with a growing interest in areas in Reinforcement Learning, which is something I want to study further academically.
+I am Kunal Chaturvedi, a CS graduate from Indian Institute of Technology Kanpur, who is currently working at Micrsooft as a Software Engineer 2. I focus on areas in Algorithms and ML in an effort to solve interesting problems both on and off work. My interests revolve aroung areas in Machine learning and Game theory, with a growing interest in areas in Reinforcement Learning, which is something I want to study further academically.
 
-I am a  music enthusiast and in my spare time, I like to play guitar and explore new music from genres ranging from prog rock, classic rock to electronic music.
+I am a music enthusiast and in my spare time, I like to play guitar and explore new music from genres ranging from prog rock, classic rock to electronic music.
