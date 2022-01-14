@@ -1,9 +1,8 @@
 ---
 title: Kunal Chaturvedi
 role: Software Engineer 2
-avatar_filename: linkedinphoto.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: kc_photo.jpg
+bio: ""
 interests:
   - Machine Learning and AI
   - Game Theory
@@ -36,6 +35,8 @@ email: chatur.kunal@gmail.com
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am Kunal Chaturvedi, a CS graduate from Indian Institute of Technology Kanpur, and am is currently working at Micrsooft as a Software Engineer 2. I focus on areas in Algorithms and ML in an effort to solve interesting problems both on and off work. My interests revolve aroung areas in Machine learning and Game theory, with a growing interest in areas in Reinforcement Learning, which is something I want to study further academically.
+
+I am a  music enthusiast and in my spare time, I like to play guitar and explore new music from genres ranging from prog rock, classic rock to electronic music.
